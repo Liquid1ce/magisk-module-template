@@ -9,5 +9,7 @@ MODDIR=${0%/*}
 /data/magisk/resetprop -n ro.product.model "Pixel XL"
 /data/magisk/resetprop -n ro.opa.eligible_device true
 /data/magisk/resetprop -n ro.product.manufacturer Google
+##### fix for oneplus (and hopefully other) devices
+/data/magisk/resetprop -n ro.product.name "Pixel XL"
 
 # thanks to xda (at)Link_of_Hyrule,  xda (at)stangri
