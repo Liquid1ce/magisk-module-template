@@ -2,8 +2,12 @@ v3.5
    
    - Initial release
 
-v3.5.1
+v3.5.1-STABLE-rc
 
    - Initial public binary zip release
 
-
+v3.5.3-STABLE-prerelease
+   
+   - miscellaneous fixes
+   - fixes for oneplus devices
+   - fixes for android_device_oneplus_oneplus2
