@@ -1,3 +1,9 @@
 v3.5
    
    - Initial release
+
+v3.5.1
+
+   - Initial public binary zip release
+
+
