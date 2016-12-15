@@ -11,3 +11,7 @@ v3.5.3-STABLE-prerelease
    - miscellaneous fixes
    - fixes for oneplus devices
    - fixes for android_device_oneplus_oneplus2
+
+v3.5.7-STABLE-rc
+
+   - add one more resetprop

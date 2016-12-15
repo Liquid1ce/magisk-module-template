@@ -14,4 +14,5 @@ MODDIR=${0%/*}
 #### android_device_oneplus_oneplus2 specific
 /data/magisk/resetprop -n ro.build.product "Pixel XL"
 /data/magisk/resetprop -n ro.product.device="Pixel Xl"
+/data/magisk/resetprop -n ro.product.brand Google
 # thanks to xda (at)Link_of_Hyrule,  xda (at)stangri
