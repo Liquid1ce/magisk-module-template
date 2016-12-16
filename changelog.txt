@@ -15,3 +15,7 @@ v3.5.3-STABLE-prerelease
 v3.5.7-STABLE-rc
 
    - add one more resetprop
+
+v3.5.8-STABLE-rc
+
+   - fixed a bug
