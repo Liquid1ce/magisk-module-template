@@ -1,6 +1,21 @@
-v1
-    - New feature 1
-    - New feature 2
-    - Fix 1
-    - Fix 2
-    - Goodies
+v3.5
+   
+   - Initial release
+
+v3.5.1-STABLE-rc
+
+   - Initial public binary zip release
+
+v3.5.3-STABLE-prerelease
+   
+   - miscellaneous fixes
+   - fixes for oneplus devices
+   - fixes for android_device_oneplus_oneplus2
+
+v3.5.7-STABLE-rc
+
+   - add one more resetprop
+
+v3.5.8-STABLE-rc
+
+   - fixed a bug

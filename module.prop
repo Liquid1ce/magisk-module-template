@@ -1,9 +1,8 @@
-id=template
-name=Template Module
-version=v1
-versionCode=1
-author=topjohnwu
-description=A short description
-support=http://forum.xda-developers.com/showthread.php?t=3432382
-donate=http://topjohnwu.github.io/donate
-cacheModule=false
+id=PixelExperience
+name=Pixel experience v3.5 (faserf @xda) systemless by anupritaisno1
+version=v3.5.8-STABLE-rc
+versionCode=401
+author=clannad a.k.a. anupritaisno1, faserf
+description=pixel experience, made by faserf, ported to magisk by anupritaisno1
+support=http://forum.xda-developers.com/apps/magisk/module-google-pixel-experience-v3-5-1-t3516665
+donate=
